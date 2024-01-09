@@ -1,16 +1,13 @@
-# Transformez une maquette en site web avec HTML et CSS
+# Transformez une maquette en site web avec HTML & CSS
 
-<center>
-
-![Booki](/images/logo/Booki@3x.png)
-
-</center>
-
+<p align="center">
+  <img src="/images/logo/Booki@3x.png" alt="Booki Logo">
+</p>
 
 *Projet n°2 : Formation Développeur Web  [OpenClassrooms](https://openclassrooms.com/fr/paths/717-developpeur-web)*
 
-
 [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhileene.github.io%2FBooki%2F) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fhileene.github.io%2FBooki%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) <img src="/images/powered-by-candy.svg" alt="For The Badge image" />
+
 
 ## Description du Projet
 
@@ -33,21 +30,33 @@ C'est mon premier stage en tant que développeuse web et Sarah, la CTO me confie
 
 ## Maquettes
 
-<div style="display: flex; justify-content: space-between;">
+<style>
+  .maquette-container {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .maquette-content {
+    margin-top: 0.5em; /* Adjust the margin as needed */
+  }
+</style>
+
+<div class="maquette-container">
   <div>
-    <span>Maquette desktop</span>
-    <p align="center">
+    <strong>Maquette desktop</strong>
+    <div class="maquette-content" align="center">
       <img src="/images/maquettes/desktop_1.png" alt="Maquette desktop Booki">
-    </p>
+    </div>
   </div>
 
   <div>
-    <span>Maquette mobile</span>
-    <p align="center">
+    <strong>Maquette mobile</strong>
+    <div class="maquette-content" align="center">
       <img src="/images/maquettes/iphone_1.png" alt="Maquette mobile Booki">
-    </p>
+    </div>
   </div>
 </div>
+
 
 
 

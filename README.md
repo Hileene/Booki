@@ -6,11 +6,11 @@
 
 *Projet n°2 : Formation Développeur Web  [OpenClassrooms](https://openclassrooms.com/fr/paths/717-developpeur-web)*
 
-<a href= "https://hileene.github.io/Booki/">Live Demo</a>
+[Live Demo] (https://hileene.github.io/Booki/) - <a href="#version-française">README FR</a> - <a href="#english-version">README EN</a>
 
 [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhileene.github.io%2FBooki%2F) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fhileene.github.io%2FBooki%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) <img src="/images/powered-by-candy.svg" alt="For The Badge image" />
 
-
+## VERSION FRANÇAISE
 ## Description du Projet
 
 Ce projet consiste à transformer des maquettes de design en une page web à l'aide d'HTML et de CSS pour Booki, une entreprise proposant des outils de planification de vacances. Le site permet aux utilisateurs de trouver des hébergements et des activités dans leur ville choisie, avec la possibilité de filtrer par thèmes tels que le budget ou l'ambiance.
@@ -88,3 +88,82 @@ C'est mon premier stage en tant que développeuse web et Sarah, la CTO me confie
 - [@hileene](https://www.github.com/Hileene) 
 - [**Portfolio**](https://portfolio-test.com)
 
+---
+
+## ENGLISH VERSION
+### Convert a Design Mockup into a Website using HTML & CSS
+
+*Project #2: Web Developer Training [OpenClassrooms](https://openclassrooms.com/en/paths/717-web-developer)*
+
+## Project Description
+
+This project involves transforming design mockups into a web page using HTML and CSS for Booki, a company offering vacation planning tools. The site allows users to find accommodations and activities in their chosen city, with the option to filter by themes such as budget or ambiance.
+
+## Evaluated Skills:
+
+- 🎨 Integrating content according to a mockup
+- 📱 Implementing a responsive interface
+- 💻 Setting up Front-End environment
+
+## Fictional Scenario
+Loïc, UI Designer at Booki, has created a new design for the site mockup based on Material Design.
+
+Before definitively approving the design, the company decided to create a prototype.
+
+### Project Instructions
+This is my first internship as a web developer, and Sarah, the CTO, entrusts me with the task of creating this prototype by integrating desktop and mobile mockups in HTML and CSS.
+
+## Mockups
+
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <strong>Desktop Mockup</strong>
+    <p align="center">
+      <img src="/images/mockups/desktop_1.png" alt="Booki Desktop Mockup">
+    </p>
+  </div>
+
+  <div>
+    <strong>Mobile Mockup</strong>
+    <p align="center">
+      <img src="/images/mockups/iphone_1.png" alt="Booki Mobile Mockup">
+    </p>
+  </div>
+</div>
+
+## Getting Started
+1. Examine the provided design mockups for desktop and mobile versions.
+2. Use HTML and CSS to integrate the mockups into a functional prototype.
+3. Pay attention to design specifications, functional requirements, and technical constraints provided by the team.
+
+### Functional Specifications
+- Users can search for accommodations in their chosen city using an editable search field (no functionality required).
+- Each accommodation or activity card should be clickable in its entirety.
+- Filter buttons should change appearance on hover (no functionality required).
+- "Accommodations" and "Activities" in the header are clickable links leading to specific sections.
+
+### Technical Specifications
+- Two mockups: desktop and mobile. Adapt the site also for tablets.
+- Breakpoints at 992px and 768px.
+- Desktop-first approach, followed by tablets and phones using Media Queries.
+- Optimize images for resolution and loading time.
+- Use Font Awesome for icons via CDN.
+- Colors: #0065FC (blue), #DEEBFF (light blue), #F2F2F2 (gray).
+- Font: Raleway from Google Fonts.
+- Use pixels and percentages, prefer Flexbox over Grid.
+- Avoid CSS frameworks or preprocessors.
+- Use semantic HTML tags.
+- Ensure W3C HTML and CSS validation.
+- Test compatibility with the latest versions of Google Chrome and Mozilla Firefox.
+
+## Tools Used
+-   [Visual Studio Code](https://code.visualstudio.com/) 
+-   [Google Font](https://fonts.google.com/)
+-   [Font Awesome](https://fontawesome.com/) 
+-   [GitHub](https://github.com/) 
+-   [GitHub Pages](https://pages.github.com/)
+-   [W3C Validator](https://validator.w3.org/) 
+
+## Author
+- [@hileene](https://www.github.com/Hileene) 
+- [**Portfolio**](https://portfolio-test.com)

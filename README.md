@@ -1,10 +1,11 @@
 # Transformez une maquette en site web avec HTML et CSS
 
-![Booki](/images/logo/Booki@3x.png)
+<p align="center">![Booki](/images/logo/Booki@3x.png)</p>
 
-#### Projet n°2 : Formation Développeur Web  [OpenClassrooms](https://openclassrooms.com/fr/paths/717-developpeur-web)
+*Projet n°2 : Formation Développeur Web  [OpenClassrooms](https://openclassrooms.com/fr/paths/717-developpeur-web)*
 
-[![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhileene.github.io%2FBooki%2F) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fhileene.github.io%2FBooki%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) [![forthebadge](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOTguMjc0OTk3NzExMTgxNjQiIGhlaWdodD0iMzUiIHZpZXdCb3g9IjAgMCAxOTguMjc0OTk3NzExMTgxNjQgMzUiPjxyZWN0IHdpZHRoPSIxMjEuMzQ5OTk4NDc0MTIxMSIgaGVpZ2h0PSIzNSIgZmlsbD0iI2UxNTY5MSIvPjxyZWN0IHg9IjEyMS4zNDk5OTg0NzQxMjExIiB3aWR0aD0iNzYuOTI0OTk5MjM3MDYwNTUiIGhlaWdodD0iMzUiIGZpbGw9IiNhNzM4ZDUiLz48dGV4dCB4PSI2MC42NzQ5OTkyMzcwNjA1NSIgeT0iMTcuNSIgZm9udC1zaXplPSIxMiIgZm9udC1mYW1pbHk9IidSb2JvdG8nLCBzYW5zLXNlcmlmIiBmaWxsPSIjRkZGRkZGIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBhbGlnbm1lbnQtYmFzZWxpbmU9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjIiPlBPV0VSRUQgQlkgPC90ZXh0Pjx0ZXh0IHg9IjE1OS44MTI0OTgwOTI2NTEzNyIgeT0iMTcuNSIgZm9udC1zaXplPSIxMiIgZm9udC1mYW1pbHk9IidNb250c2VycmF0Jywgc2Fucy1zZXJpZiIgZmlsbD0iI0ZGRkZGRiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC13ZWlnaHQ9IjkwMCIgYWxpZ25tZW50LWJhc2VsaW5lPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIyIj5DQU5EWTwvdGV4dD48L3N2Zz4=)](https://forthebadge.com)
+
+[![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhileene.github.io%2FBooki%2F) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fhileene.github.io%2FBooki%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) [![forthebadge](https://forthebadge.com?primaryBGColor=%23e15691&primaryTextColor=%23FFFFFF&secondaryBGColor=%23a738d5&secondaryTextColor=%23FFFFFF&tertiaryBGColor=%232674A4&tertiaryTextColor=%23FFFFFF&primaryLabel=powered+by+&secondaryLabel=candy&tertiaryLabel=&panels=2#/generator)](https://forthebadge.com)
 
 ## Description du Projet
 

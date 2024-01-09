@@ -6,7 +6,13 @@
 
 *Projet n°2 : Formation Développeur Web  [OpenClassrooms](https://openclassrooms.com/fr/paths/717-developpeur-web)*
 
-[Live Demo](https://hileene.github.io/Booki/) - <a href="#version-française">README FR</a> - <a href="#english-version">README EN</a>
+## Demo
+
+[Booki](https://hileene.github.io/Booki/) 
+
+- <a href="#version-française">README FR</a> 
+- <a href="#english-version">README EN</a>
+
 
 [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhileene.github.io%2FBooki%2F) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fhileene.github.io%2FBooki%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) <img src="/images/powered-by-candy.svg" alt="For The Badge image" />
 
@@ -121,14 +127,14 @@ This is my first internship as a web developer, and Sarah, the CTO, entrusts me 
   <div>
     <strong>Desktop Mockup</strong>
     <p align="center">
-      <img src="/images/mockups/desktop_1.png" alt="Booki Desktop Mockup">
+      <img src="/images/maquettes/desktop_1.png" alt="Maquette desktop Booki">
     </p>
   </div>
 
   <div>
     <strong>Mobile Mockup</strong>
     <p align="center">
-      <img src="/images/mockups/iphone_1.png" alt="Booki Mobile Mockup">
+      <img src="/images/maquettes/iphone_1.png" alt="Maquette mobile Booki">
     </p>
   </div>
 </div>
@@ -158,7 +164,7 @@ This is my first internship as a web developer, and Sarah, the CTO, entrusts me 
 - Ensure W3C HTML and CSS validation.
 - Test compatibility with the latest versions of Google Chrome and Mozilla Firefox.
 
-## Tools Used
+## Build with
 -   [Visual Studio Code](https://code.visualstudio.com/) 
 -   [Google Font](https://fonts.google.com/)
 -   [Font Awesome](https://fontawesome.com/) 

@@ -20,7 +20,7 @@ Ce projet consiste à transformer des maquettes de design en une page web à l'a
 - 💻 Mettre en place son environnement Front-End 
 
 ## Scénario fictif
-Loïc, Designer UI chez Booki, a réalisé un nouveau design de la maquette du site basé sur le Materail Design.
+Loïc, Designer UI chez Booki, a réalisé un nouveau design de la maquette du site basé sur le Material Design.
 
 Avant de valider définitivement le design, l’entreprise a décidé de réaliser un prototype.
 
@@ -33,7 +33,6 @@ C'est mon premier stage en tant que développeuse web et Sarah, la CTO me confie
 <div style="display: flex; justify-content: space-between;">
   <div>
     <strong>Maquette desktop</strong>
-   </>
     <p align="center">
       <img src="/images/maquettes/desktop_1.png" alt="Maquette desktop Booki">
     </p>
@@ -41,7 +40,6 @@ C'est mon premier stage en tant que développeuse web et Sarah, la CTO me confie
 
   <div>
     <strong>Maquette mobile</strong>
-    </>
     <p align="center">
       <img src="/images/maquettes/iphone_1.png" alt="Maquette mobile Booki">
     </p>

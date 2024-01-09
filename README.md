@@ -12,22 +12,39 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhileene.github.io%2FBooki%2F) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fhileene.github.io%2FBooki%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) <img src="/images/powered-by-candy.svg" alt="For The Badge image" />
 
+## Sommaire
+- <a href="#description-du-projet">Description du projet</a>
+- <a href="#technologies">Technologies</a>
+- <a href="#compétences-évaluées">Compétences évaluées</a>
+- <a href="#scénario-fictif">Scénario fictif</a>
+- <a href="#maquettes">Maquettes</a>
+- <a href="#pour-commencer">Pour commencer</a>
+- <a href="#outils-utilisés">Outils utilisés</a>
+- <a href="#auteur">Auteur</a>
+
+
+
 - <a href="#version-française">README FR</a> 
 - <a href="#english-version">README EN</a>
 
 ---
 ## VERSION FRANÇAISE
-## Description du Projet
+## Description Du Projet
 
 Ce projet consiste à transformer des maquettes de design en une page web à l'aide d'HTML et de CSS pour Booki, une entreprise proposant des outils de planification de vacances. Le site permet aux utilisateurs de trouver des hébergements et des activités dans leur ville choisie, avec la possibilité de filtrer par thèmes tels que le budget ou l'ambiance.
 
-## Compétences évaluées :
+## Technologies:
+
+- HTML5
+- CSS
+
+## Compétences Évaluées :
 
 - 🎨 Intégrer du contenu conformément à une maquette 
 - 📱 Implémenter une interface responsive 
 - 💻 Mettre en place son environnement Front-End 
 
-## Scénario fictif
+## Scénario Fictif
 Loïc, Designer UI chez Booki, a réalisé un nouveau design de la maquette du site basé sur le Material Design.
 
 Avant de valider définitivement le design, l’entreprise a décidé de réaliser un prototype.
@@ -81,7 +98,7 @@ C'est mon premier stage en tant que développeuse web et Sarah, la CTO me confie
 - Assurer la validation W3C HTML et CSS.
 - Tester la compatibilité avec les dernières versions de Google Chrome et Mozilla Firefox.
 
-## Outils utilisés
+## Outils Utilisés
 -   [Visual Studio Code](https://code.visualstudio.com/) 
 -   [Google Font](https://fonts.google.com/)
 -   [Font Awesome](https://fontawesome.com/) 
@@ -102,9 +119,24 @@ C'est mon premier stage en tant que développeuse web et Sarah, la CTO me confie
 
 *Project #2: Web Developer Training [OpenClassrooms](https://openclassrooms.com/en/paths/717-web-developer)*
 
+## Table Of Contents
+- <a href="#project-description">Project description</a>
+- <a href="#technologies">Technologies</a>
+- <a href="#evaluated-skills">Evaluated skills</a>
+- <a href="#fictional-scenario">Fictional scenario</a>
+- <a href="#mockups">Mockups</a>
+- <a href="#getting-started">Getting Started</a>
+- <a href="#build-with">Build with</a>
+- <a href="#author">Author</a>
+
 ## Project Description
 
 This project involves transforming design mockups into a web page using HTML and CSS for Booki, a company offering vacation planning tools. The site allows users to find accommodations and activities in their chosen city, with the option to filter by themes such as budget or ambiance.
+
+## Technologies:
+
+- HTML5
+- CSS
 
 ## Evaluated Skills:
 

@@ -24,7 +24,7 @@ Loïc, Designer UI chez Booki, a réalisé un nouveau design de la maquette du s
 
 Avant de valider définitivement le design, l’entreprise a décidé de réaliser un prototype.
 
-## Instructions du Projet
+### Instructions du Projet
 C'est mon premier stage en tant que développeuse web et Sarah, la CTO me confie la tâche de créer ce prototype en intégrant les maquettes desktop et mobile en HTML et CSS.
 
 

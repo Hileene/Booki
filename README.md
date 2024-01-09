@@ -6,10 +6,11 @@
 
 *Projet n°2 : Formation Développeur Web  [OpenClassrooms](https://openclassrooms.com/fr/paths/717-developpeur-web)*
 
-[Live Demo] (https://hileene.github.io/Booki/) - <a href="#version-française">README FR</a> - <a href="#english-version">README EN</a>
+[Live Demo](https://hileene.github.io/Booki/) - <a href="#version-française">README FR</a> - <a href="#english-version">README EN</a>
 
 [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhileene.github.io%2FBooki%2F) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fhileene.github.io%2FBooki%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) <img src="/images/powered-by-candy.svg" alt="For The Badge image" />
 
+---
 ## VERSION FRANÇAISE
 ## Description du Projet
 
@@ -91,6 +92,7 @@ C'est mon premier stage en tant que développeuse web et Sarah, la CTO me confie
 ---
 
 ## ENGLISH VERSION
+
 ### Convert a Design Mockup into a Website using HTML & CSS
 
 *Project #2: Web Developer Training [OpenClassrooms](https://openclassrooms.com/en/paths/717-web-developer)*

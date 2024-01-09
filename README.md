@@ -10,9 +10,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhileene.github.io%2FBooki%2F) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fhileene.github.io%2FBooki%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) <img src="/images/powered-by-candy.svg" alt="For The Badge image" />
 
-- [Booki](https://hileene.github.io/Booki/) Site Live 
-- <a href="#version-française">README FR</a> 
-- <a href="#english-version">README EN</a>
+- [Booki](https://hileene.github.io/Booki/) Site Live - <a href="#version-française">README FR</a> - <a href="#english-version">README EN</a>
 
 ---
 ## VERSION FRANÇAISE

@@ -30,33 +30,23 @@ C'est mon premier stage en tant que développeuse web et Sarah, la CTO me confie
 
 ## Maquettes
 
-<style>
-  .maquette-container {
-    display: flex;
-    justify-content: space-between;
-  }
-
-  .maquette-content {
-    margin-top: 0.5em; /* Adjust the margin as needed */
-  }
-</style>
-
-<div class="maquette-container">
+<div style="display: flex; justify-content: space-between;">
   <div>
     <strong>Maquette desktop</strong>
-    <div class="maquette-content" align="center">
+   </>
+    <p align="center">
       <img src="/images/maquettes/desktop_1.png" alt="Maquette desktop Booki">
-    </div>
+    </p>
   </div>
 
   <div>
     <strong>Maquette mobile</strong>
-    <div class="maquette-content" align="center">
+    </>
+    <p align="center">
       <img src="/images/maquettes/iphone_1.png" alt="Maquette mobile Booki">
-    </div>
+    </p>
   </div>
 </div>
-
 
 
 

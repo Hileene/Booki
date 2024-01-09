@@ -12,6 +12,12 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhileene.github.io%2FBooki%2F) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fhileene.github.io%2FBooki%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) <img src="/images/powered-by-candy.svg" alt="For The Badge image" />
 
+- <a href="#version-française">README FR</a> 
+- <a href="#english-version">README EN</a>
+
+---
+## VERSION FRANÇAISE
+
 ## Sommaire
 - <a href="#description-du-projet">Description du projet</a>
 - <a href="#technologies">Technologies</a>
@@ -22,13 +28,6 @@
 - <a href="#outils-utilisés">Outils utilisés</a>
 - <a href="#auteur">Auteur</a>
 
-
-
-- <a href="#version-française">README FR</a> 
-- <a href="#english-version">README EN</a>
-
----
-## VERSION FRANÇAISE
 ## Description Du Projet
 
 Ce projet consiste à transformer des maquettes de design en une page web à l'aide d'HTML et de CSS pour Booki, une entreprise proposant des outils de planification de vacances. Le site permet aux utilisateurs de trouver des hébergements et des activités dans leur ville choisie, avec la possibilité de filtrer par thèmes tels que le budget ou l'ambiance.

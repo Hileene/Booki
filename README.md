@@ -1,7 +1,7 @@
 # Implement a website layout using HTML & CSS
 
 <p align="center">
-  <img src="/images/logo/Booki@3x.png" alt="Booki Logo">
+  <img src="/images/banner-readme.png" alt="Booki Banner">
 </p>
 
 *Project #2: Web Developer Training [OpenClassrooms](https://openclassrooms.com/en/paths/717-web-developer)*

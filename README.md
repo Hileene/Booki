@@ -114,7 +114,7 @@ C'est mon premier stage en tant que développeuse web et Sarah, la CTO me confie
 
 ## ENGLISH VERSION
 
-### Convert a Design Mockup into a Website using HTML & CSS
+### Implement a website layout using HTML & CSS
 
 *Project #2: Web Developer Training [OpenClassrooms](https://openclassrooms.com/en/paths/717-web-developer)*
 

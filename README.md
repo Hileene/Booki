@@ -10,7 +10,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhileene.github.io%2FBooki%2F) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fhileene.github.io%2FBooki%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) <img src="/images/powered-by-candy.svg" alt="For The Badge image" />
 
-[Booki](https://hileene.github.io/Booki/) Site Live - <a href="#version-française">README FR</a> - <a href="#english-version">README EN</a>
+[Booki](https://hileene.github.io/Booki/) - <a href="#version-française">README FR</a> - <a href="#english-version">README EN</a>
 
 ---
 
@@ -18,14 +18,15 @@
 ## VERSION FRANÇAISE
 
 ## Sommaire
-- <a href="#description-du-projet">Description du projet</a>
-- <a href="#technologies">Technologies</a>
-- <a href="#compétences-évaluées">Compétences évaluées</a>
-- <a href="#scénario-fictif">Scénario fictif</a>
-- <a href="#maquettes">Maquettes</a>
-- <a href="#pour-commencer">Pour commencer</a>
-- <a href="#outils-utilisés">Outils utilisés</a>
-- <a href="#auteur">Auteur</a>
+- [Description du projet](#description-du-projet) 
+- [Technologies](#technologies)
+- [Compétences évaluées](#compétences-évaluées) 
+- [Scénario fictif](#scénario-fictif) 
+- [Maquettes](#maquettes)
+- [Pour commencer](#pour-commencer)
+- [Développé avec](#développé-avec)
+- [Auteur](#auteur)
+
 
 ## Description Du Projet
 
@@ -76,7 +77,7 @@ C'est mon premier stage en tant que développeuse web et Sarah, la CTO me confie
 2. Utiliser HTML et CSS pour intégrer les maquettes dans un prototype fonctionnel.
 3. Faire attention aux spécifications de design, aux exigences fonctionnelles et aux contraintes techniques fournies par l'équipe.
 
-### Spécifications  Fonctionnelles
+### Spécifications Fonctionnelles
 - Les utilisateurs peuvent rechercher des hébergements dans leur ville choisie à l'aide d'un champ de recherche éditable (aucune fonctionnalité requise).
 - Chaque carte d'hébergement ou d'activité doit être cliquable dans son intégralité.
 - Les boutons de filtre doivent changer d'apparence au survol (aucune fonctionnalité requise).
@@ -96,7 +97,7 @@ C'est mon premier stage en tant que développeuse web et Sarah, la CTO me confie
 - Assurer la validation W3C HTML et CSS.
 - Tester la compatibilité avec les dernières versions de Google Chrome et Mozilla Firefox.
 
-## Outils Utilisés
+## Développé Avec
 -   [Visual Studio Code](https://code.visualstudio.com/) 
 -   [Google Font](https://fonts.google.com/)
 -   [Font Awesome](https://fontawesome.com/) 
@@ -118,14 +119,16 @@ C'est mon premier stage en tant que développeuse web et Sarah, la CTO me confie
 *Project #2: Web Developer Training [OpenClassrooms](https://openclassrooms.com/en/paths/717-web-developer)*
 
 ## Table Of Contents
-- <a href="#project-description">Project description</a>
-- <a href="#technologies">Technologies</a>
-- <a href="#evaluated-skills">Evaluated skills</a>
-- <a href="#fictional-scenario">Fictional scenario</a>
-- <a href="#mockups">Mockups</a>
-- <a href="#getting-started">Getting Started</a>
-- <a href="#build-with">Build with</a>
-- <a href="#author">Author</a>
+
+- [Project description](#project-description) 
+- [Technologies](#technologies)
+- [Evaluated skills](#evaluated-skills) 
+- [Fictional scenario](#fictional-scenario) 
+- [Mockups](#mockups)
+- [Getting Started](#getting-started)
+- [Built with](#built-with)
+- [Author](#author)
+
 
 ## Project Description
 
@@ -193,7 +196,7 @@ This is my first internship as a web developer, and Sarah, the CTO, entrusts me 
 - Ensure W3C HTML and CSS validation.
 - Test compatibility with the latest versions of Google Chrome and Mozilla Firefox.
 
-## Build with
+## Built with
 -   [Visual Studio Code](https://code.visualstudio.com/) 
 -   [Google Font](https://fonts.google.com/)
 -   [Font Awesome](https://fontawesome.com/) 
